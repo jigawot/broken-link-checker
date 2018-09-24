@@ -1,0 +1,22 @@
+{
+    "name": "jigawot/broken-link-checker",
+    "description": "Checks your blog for broken links and missing images and notifies you on the dashboard if any are found.",
+    "type": "wordpress-plugin",
+    "dist": {
+        "url": "https://github.com/jigawot/broken-link-checker.git",
+        "type": "git"
+    },
+    "licence": "UNLICENSED",
+    "authors": [
+        {
+            "name": "Janis Elsts"
+        },
+        {
+            "name": "Vladimir Prelovac"
+        },
+        {
+            "name": "James Hoffman",
+            "email": "james@hoffmanacademy.com"
+        }
+    ]
+}
